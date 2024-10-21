@@ -2,7 +2,6 @@
 
 This project is developed using MERN STACK.
 
-[Completion Certificate](https://drive.google.com/file/d/1tU2-gGpsSSO0YrOHtEmyA-t4tkQNKTx8/view?usp=sharing)
 
 
 
